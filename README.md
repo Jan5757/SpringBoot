@@ -1,5 +1,5 @@
 
-# [Разработка Spring Boot 2.x HATEOAS приложения (BootJava)](http://javaops.ru/view/bootjava?ref=gh)
+# [Разработка Spring Boot 2.x HATEOAS приложения (BootJava)]
 ## [Программа](http://javaops.ru/view/bootjava#program)
 
 ### Java приложения на самом современном и востребованном стеке: Spring Boot 2.x, Spring Data Rest/HATEOAS, Lombok, JPA, H2, ....
